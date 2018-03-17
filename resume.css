@@ -1,0 +1,57 @@
+
+
+
+
+* {
+    background-image: url("https://www.hobbitontours.com/media/1181/hobbiton-movie-set-8.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center
+}
+
+h1 > b > center {
+    color: gold;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+div > center > img {
+    width: 200px;
+    height: 200px;
+    border: 15px brown;
+    padding: 10px 10px 0px 10px;
+    margin: 20px 0px 0px 10px;
+}
+
+h3 {
+    color: yellow;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+ul, ol {
+    color: yellow;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+ul > li {
+    text-indent: 0px
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+ol > li{
+    text-indent: 0px
+    padding: 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
